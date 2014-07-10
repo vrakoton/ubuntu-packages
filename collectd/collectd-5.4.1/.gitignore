@@ -1,0 +1,8 @@
+bindings/
+contrib/
+libltdl/
+src/
+
+*.deb
+*.gz
+*.tar
